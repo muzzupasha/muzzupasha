@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | AI Enthusiast | BCA @ TMU Moradabad
 
-I am a passionate **Full Stack Developer** specializing in the **MERN Stack** and **Next.js**. I love building scalable web applications and integrating **Generative AI** to create smarter user experiences. Currently pursuing my **Bachelor of Computer Applications (NEP 2020)** while building the next generation of web tools.
+I am a passionate **Full Stack Developer** specializing in the **MERN Stack** and **Next.js**. I love building scalable web applications and integrating **Generative AI** to create smarter user experiences. Currently pursuing my **Bachelor of Computer Applications ** while building the next generation of web tools.
 
 ---
 
